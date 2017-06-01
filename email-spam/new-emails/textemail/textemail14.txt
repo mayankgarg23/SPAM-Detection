@@ -1,0 +1,67 @@
+From nobody Thu Dec 15 16:18:13 2016
+<http: //www.venturesity.com/challenge/id/370>     *Hi Vishal Bisht,* 
+ We are just a few days away from the *#buildwithAWS learn up*
+<http: //www.venturesity.com/challenge/id/370>. Get hooked onto our series
+
+of #buildwithAWS learnups that grow your knowhow on the capabilities of
+AWS. In order for your product, service or company to make a lasting
+impression on the right audience, it requires that little extra something.
+We in the industry, recognize that extra something as virtualization. 
+ 
+ Let the professionals take you through the intricacies and detailed
+journey around the Amazon Web Services Platform. Supercharge your company's
+offerings, products and services by learning how to leverage the world's
+most powerful cloud platform. Along with Docker & AWS let us show you the
+mastery and techniques to seamlessly growing your company and engaging your
+audiences more. 
+ 
+ What do I stand to learn from here? This session take you through the
+concept of virtualization which would include the different types of
+virtualizations, understanding the Docker as a software containerization
+platform like Docker's Architecture, building and running custom images in
+Docker containers and Networking Docker Containers. 
+ 
+*Advantages of using Docker:*   - Simplicity and faster configurations
+  - Increased productivity
+  - Rapid Deployment
+ 
+ Register today for FREE to attend the learn up and get your *$100 worth of
+credits from AWS*: 
+ 
+     Register for FREE <http://vsity.in/AWSRest>    Click ‘going’ on
+our Facebook event: https://www.facebook.com/events/1688903521421623/ 
+ 
+ Comment on our challenge page: vsity.in/AWSRest <http://vsity.in/AWSRest> 
+ 
+ We look forward to seeing you at the #buildwithAWS learnup on *17th
+December 2016* from 12:00 PM to 4 P.M at the AWS office in Salcon Rasvilas
+<https://www.google.co.in/maps/place/SALCON+RASVILAS/@28.5282202,77.2176486,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce18b0950c389:0xebbb242665d51b64!8m2!3d28.5282202!4d77.2198373>.
+
+ 
+*Regards,*         *Arpita Priyadarshini* 
+Community Manager, Venturesity 
+  arpita@venturesity.com <mailto:arpita@venturesity.com> 
+ 
+ www.venturesity.com <http://www.venturesity.com/> 
+                Have a question? Send a word to support@venturesity.com
+<mailto:support@venturesity.com>                         VENTURESITY
+<http://venturesity.com/>              Connect With Us
+<https://twitter.com/venturesity> <https://twitter.com/venturesity>
+<https://twitter.com/venturesity> <https://twitter.com/venturesity>        
+    
+     
+                   No. 389, 12 Main, 1st Cross, Indiranagar, Bangalore
+560037 
+ 
+PH: +91 8041 202 465
+
+       HOME <http://www.venturesity.com/> |  CHALLENGES
+<http://www.venturesity.com/challenge> |  BLOG
+<http://blog.venturesity.com/>
+
+
+
+
+
+This email was sent to vishal.bisht13104751@gmail.com (mailto:vishal.bisht13104751@gmail.com)
+unsubscribe from this list (http://mandrillapp.com/track/unsub.php?u=30690969&id=b985ff2281be4868baed1eb1eb7c48e2.aTlcrZTwhk8abLwT%2BLXvtDGEAtY%3D&r=https%3A%2F%2Fmandrillapp.com%2Funsub%3Fmd_email%3Dvishal.bisht13104751%2540gmail.com)
